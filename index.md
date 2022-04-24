@@ -12,7 +12,7 @@ My research interests lie in race and ethnicity and migration studies. Specifica
 - Migrants’ ethnic identity formation and social integration
 - Identity of multiethnic people
 
-Contact: xiang DoT lu AT zju DoT edu DoT cn
+Contact: xiang.lu@zju.edu.cn
 
 Download my [CV](./docs/Xiang Lu CV.pdf) here.
 
