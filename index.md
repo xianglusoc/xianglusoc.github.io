@@ -25,7 +25,7 @@ Download my [CV](./docs/Xiang Lu CV.pdf) here.
 
 ## Publications
   
-- **Official Classification, Affirmative Action, and Self-Identification: Hui-Han Biethnic College Students in China (2020)**
+- **Official Classification, Affirmative Action, and Self-Identification: Hui-Han Biethnic College Students in China (2022)**
 
   Xiang Lu
   
