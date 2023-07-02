@@ -25,6 +25,20 @@ Download my [CV](./docs/Xiang Lu CV.pdf) here.
 
 ## Publications
   
+- **Faith in Flux: The Diverse Religious Adaptations of Hui Muslim Internal Migrants in a Global Market Town in Southeast China (forthcoming)**
+
+  Xiang Lu
+
+  In *Journal of Contemporary Religion*
+
+- **Linking Race and Genes: Racial Conceptualization Among Genetic Ancestry Test-Takers (forthcoming)**
+
+  Olivia Y. Hu, Xiang Lu, and Wendy D. Roth (co-first author)
+
+  In *Ethnic and Racial Studies*
+
+  [[Paper]](https://doi.org/10.1080/01419870.2023.2224871)
+
 - **Official Classification, Affirmative Action, and Self-Identification: Hui-Han Biethnic College Students in China (2022)**
 
   Xiang Lu
@@ -32,8 +46,6 @@ Download my [CV](./docs/Xiang Lu CV.pdf) here.
   In *Identities* 29(2): 186-204.
   
   [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1070289X.2020.1757249) 
-
-  Abstract: The existing literature on the self-identity of multiethnic people focuses on Western countries where mixed identities have been normalised in census- taking. It remains unknown how multiethnic people identify themselves in countries where ethnic classification is exclusive and rigid and ethnicity is a mainly ascriptive legal category. Based on in-depth interviews with twenty Hui-Han biethnic college students in China, this article shows how official ethnic classification and affirmative action shape these people’s self-identification. Most respondents identify themselves as Hui regardless of their cultural prac- tices, as their parents registered their official ethnicity as Hui and they have internalised this identity. The multiethnic background is more frustrating for students at China’s special ‘universities for ethnicities’ because ethnicity is a salient topic on campus and they experience more expectations to behave like Hui. Many respondents have an essentialist understanding of ethnicity and express unsupportive attitudes towards institutionalising mixed identities.
 
 - **Identity Construction Among Twice-Minority Immigrants: A Comparative Study of Korean-Chinese and Uyghurs in the United States (2021)**
 
@@ -43,15 +55,9 @@ Download my [CV](./docs/Xiang Lu CV.pdf) here.
   
   [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1577725) 
 
-  Abstract: ‘Twice-minority’ immigrants, immigrants who are ethnic minorities in both their home country and country of destination, may face ambiguity and multiple options in their ethnic self-identification in the host society. This paper investigates the dynamics in the identity construction among such groups. My data comes from in- depth interviews with 40 recent immigrants in the United States from two minority ethnic groups in China: Korean-Chinese and Uyghur. I find that these two groups’ perceived phenotypical and cultural difference from (or similarity to) the majority Han ethnic group in China, experiences of prejudice in China, and pre- existing transnational ethnic ties influence the identity dynamics in their interactions with different groups in the U.S. Both Korean- Chinese and Uyghur immigrants experience a mix of pulling and pushing forces towards identities associated with different proximal host groups in these interactions, but Uyghur immigrants’ identity options are constrained by their phenotypical distinctness from the Han Chinese. Both groups maintain their distinct ethnic identity in the host society, but they find different new bases for their twice-minority identity. The article shows how everyday interactions with multiple ethnic audiences shape possibilities of identity and ethnicisation and helps us better understand ethnic identity and transnational movement of ethnic schemas.
-
 ## Works in progress
 
-- Hu, Olivia*, Xiang Lu*, and Wendy D. Roth. “Linking Race and Genes: Racial Conceptualization among Genetic Ancestry Test-Takers.” Preprint available at: 10.31235/osf.io/4qskn (*indicates equal contribution.) (Under review.)
-
-- Lu, Xiang. “Multiple Patterns of Change in Religiosity: Hui Muslim Internal Migrants in an International Trade City in China.” (Under review.)
-
-- Lu, Xiang. “’I Thought That Muslims Should Be like Brothers’: How Chinese Hui Muslims Understand Their Relationship to Middle Eastern and North African (MENA) Muslims in a Global Market Town.” (Under review.)
+- Lu, Xiang. “’I Thought That Muslims Should Be like Brothers’: How Chinese Hui Muslims Understand Their Relationship to Middle Eastern and North African (MENA) Muslims in a Global Market Town.” 
 
 - Lu, Xiang. “Discourses of Race and Ethnicity in Modern China: A Study of Geography and History Textbooks, 1903–1984.”
 
