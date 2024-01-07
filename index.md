@@ -4,17 +4,19 @@ layout: default
 
 
 ## About
-Hi! My name is Xiang Lu (吕想). I am a tenure-track Distinguished Associate Research Fellow (特聘副研究员) at Center for Study on Nation and Ethnicity, [Institute for Advanced Study in Humanities and Social Sciences (IAS)](http://www.iash.zju.edu.cn/topic/home), [Zhejiang University](https://www.zju.edu.cn). I also teach and supervise students at the [Department of Sociology](http://sociology.zju.edu.cn). 
+Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for Advanced Study in Humanities and Social Sciences (IAS) and the Department of Sociology, Zhejiang University. Before joining ZJU, I received a PhD in Sociology from New York University.
 
-My research interests lie in race and ethnicity and migration studies. Specifically, I am interested in:
+My research interests lie in race and ethnicity, migration studies, and sociology of family. Below are some topics that I am particularly interested in:
 
-- Racial/ethnic conceptualization from a historical and comparative perspective
+- Racial/ethnic conceptualization from historical and comparative perspectives
 - Migrants’ ethnic identity formation and social integration
 - Identity of multiethnic people
+- Mating and reproductive behaviors
 
 Contact: xiang.lu@zju.edu.cn
 
-Download my [CV](./docs/Xiang Lu CV.pdf) here.
+Download my [CV](./docs/Xiang Lu CV 2024 0107.pdf) here.
+Check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages here.
 
 
 ## Education
@@ -31,7 +33,7 @@ Download my [CV](./docs/Xiang Lu CV.pdf) here.
 
   In *Journal of Contemporary Religion*
 
-- **Linking Race and Genes: Racial Conceptualization Among Genetic Ancestry Test-Takers (forthcoming)**
+- **Linking Race and Genes: Racial Conceptualization Among Genetic Ancestry Test-Takers**
 
   Olivia Y. Hu, Xiang Lu, and Wendy D. Roth (co-first author)
 
