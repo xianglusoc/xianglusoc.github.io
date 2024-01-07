@@ -15,7 +15,7 @@ My research interests lie in race and ethnicity, migration studies, and sociolog
 
 Contact: xiang.lu@zju.edu.cn
 
-Download my [CV](./docs/Xiang Lu CV 2024 0107.pdf) here.
+Download my [CV](./docs/Xiang Lu CV.pdf) here.
 Check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages here.
 
 
