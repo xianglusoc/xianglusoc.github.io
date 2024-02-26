@@ -14,7 +14,7 @@ Apart from this book project, I have also been broadly interested in topics such
 - Migrants’ ethnic identity formation and social integration
 - Identity of multiethnic people
 
-To learn more about my research interests, download my [CV](./docs/Xiang Lu CV.pdf) here.
+To learn more about my research interests, download my [CV](./docs/Xiang Lu CV 2024 0226.pdf) here.
 Check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages here.
 
 Contact: xiang.lu@zju.edu.cn
