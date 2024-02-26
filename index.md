@@ -57,15 +57,17 @@ Contact: xiang.lu@zju.edu.cn
 
 ## Works under review and in progress
 
-- Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.”
-
-- Lu, Xiang. “Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub.”
-
-- Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.”
-
-- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.”
+- Lu, Xiang. Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (Book manuscript in preparation).
   
-- Lu, Xiang. “Navigating Borders, Bridging Markets: Korean-Chinese Internal Migrants Leveraging Bi-Cultural Identity in Global Commerce.”
+- Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.” (Under review)
+
+- Lu, Xiang. “Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub.” (Under review)
+
+- Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” (Under review)
+
+- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” (In preparation)
+  
+- Lu, Xiang. “Navigating Borders, Bridging Markets: Korean-Chinese Internal Migrants Leveraging Bi-Cultural Identity in Global Commerce.” (In preparation)
 
 
 
