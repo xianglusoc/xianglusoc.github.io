@@ -1,8 +1,3 @@
-![image](https://github.com/xianglusoc/xianglusoc.github.io/assets/103883580/3d215245-1e94-493a-b44e-3f1e6eb7022e)---
-layout: default
----
-
-
 ## About
 Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for Advanced Study in Humanities and Social Sciences (IAS) and the Department of Sociology, Zhejiang University. Before joining ZJU, I received a PhD in Sociology from New York University.
 
