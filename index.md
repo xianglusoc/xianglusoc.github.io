@@ -1,9 +1,9 @@
 ## About
 Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for Advanced Study in Humanities and Social Sciences (IAS) and the Department of Sociology, Zhejiang University. Before joining ZJU, I received a PhD in Sociology from New York University.
 
-My research interests lie in race and ethnicity and migration. I am currently writing a book that examines the intricate dynamics by which China's Hui Muslim internal migrants utilize their unique Sino-Muslim bi-cultural identity to participate in China-Arab trade. This work illuminates how they maneuver through a landscape rife with ethnic advantages and challenges, undergoing cultural adaptation and negotiation, while perpetually reshaping their identity in their interactions with the Han majority and the wider Muslim world.
+My research interests lie in race and ethnicity and migration. I am currently writing a book that examines the intricate dynamics by which China's Hui Muslim internal migrants utilize their unique Sino-Muslim bi-cultural identity to participate in China-Arab trade. 
 
-Apart from this book project, I have also been broadly interested in topics such as:
+I have also been broadly interested in topics such as:
 
 - Racial/ethnic conceptualization from historical and comparative perspectives
 - Migrants’ ethnic identity formation and social integration
