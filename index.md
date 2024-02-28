@@ -27,33 +27,25 @@ Contact: xiang.lu@zju.edu.cn
 
   Xiang Lu
 
-  In *Journal of Contemporary Religion*
-  
-  [[Paper]](https://www.researchgate.net/publication/377209037_Faith_in_Flux_The_Diverse_Religious_Adaptations_of_Hui_Muslim_Internal_Migrants_in_a_Global_Market_Town_in_Southeast_China)
+  In *Journal of Contemporary Religion* [[Paper]](https://www.researchgate.net/publication/377209037_Faith_in_Flux_The_Diverse_Religious_Adaptations_of_Hui_Muslim_Internal_Migrants_in_a_Global_Market_Town_in_Southeast_China)
 
 - **Linking Race and Genes: Racial Conceptualization Among Genetic Ancestry Test-Takers**
 
   Olivia Y. Hu, Xiang Lu, and Wendy D. Roth (co-first author)
 
-  In *Ethnic and Racial Studies*
-
-  [[Paper]](https://doi.org/10.1080/01419870.2023.2224871)
+  In *Ethnic and Racial Studies* [[Paper]](https://doi.org/10.1080/01419870.2023.2224871)
 
 - **Official Classification, Affirmative Action, and Self-Identification: Hui-Han Biethnic College Students in China (2022)**
 
   Xiang Lu
   
-  In *Identities* 29(2): 186-204.
-  
-  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1070289X.2020.1757249) 
+  In *Identities* 29(2): 186-204. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1070289X.2020.1757249) 
 
 - **Identity Construction Among Twice-Minority Immigrants: A Comparative Study of Korean-Chinese and Uyghurs in the United States (2021)**
 
   Xiang Lu
 
-  In *Journal of Ethnic and Migration Studies* 47(7): 1558-1577
-  
-  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1577725) 
+  In *Journal of Ethnic and Migration Studies* 47(7): 1558-1577  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1577725) 
 
 ## Works under review and in progress
 
