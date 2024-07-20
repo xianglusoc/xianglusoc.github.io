@@ -1,5 +1,5 @@
 ## About
-Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for Advanced Study in Humanities and Social Sciences (IAS) and the Department of Sociology, Zhejiang University. Before joining ZJU, I received a PhD in Sociology from New York University.
+Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for Advanced Study in Humanities and Social Sciences (IAS) and the Department of Sociology, Zhejiang University. Before joining ZJU, I received my PhD in Sociology from New York University.
 
 My research interests lie in race, ethnicity, and migration. To learn more about my research interests, download my [CV](./docs/Xiang Lu CV 2024 0226.pdf) here.
 Check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages here.
@@ -15,6 +15,12 @@ Contact: xiang.lu@zju.edu.cn
 
 ## Publications
   
+- **Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub (forthcoming)**
+
+  Xiang Lu
+
+  In *Ethnic and Racial Studies*
+
 - **Faith in Flux: The Diverse Religious Adaptations of Hui Muslim Internal Migrants in a Global Market Town in Southeast China (forthcoming)**
 
   Xiang Lu
@@ -40,19 +46,12 @@ Contact: xiang.lu@zju.edu.cn
   In *Journal of Ethnic and Migration Studies* 47(7): 1558-1577  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1577725) 
 
 ## Works under review and in progress
-
-- Lu, Xiang. Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (Book manuscript in preparation).
   
 - Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.” (Under review)
-
-- Lu, Xiang. “Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub.” (Under review)
 
 - Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” (Under review)
 
 - Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” (In preparation)
-  
-- Lu, Xiang. “Navigating Borders, Bridging Markets: Korean-Chinese Internal Migrants Leveraging Bi-Cultural Identity in Global Commerce.” (In preparation)
-
 
 
 
