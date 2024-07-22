@@ -31,7 +31,7 @@ Contact: xiang.lu@zju.edu.cn
 
   Olivia Y. Hu, Xiang Lu, and Wendy D. Roth (co-first author)
 
-  In *Ethnic and Racial Studies* [[Paper]](https://doi.org/10.1080/01419870.2023.2224871)
+  In *Ethnic and Racial Studies* 47(8): 1574-1596 [[Paper]](https://doi.org/10.1080/01419870.2023.2224871)
 
 - **Official Classification, Affirmative Action, and Self-Identification: Hui-Han Biethnic College Students in China (2022)**
 
