@@ -19,7 +19,7 @@ Contact: xiang.lu@zju.edu.cn
 
   Xiang Lu
 
-  In *Ethnic and Racial Studies* [[Paper]] (https://www.tandfonline.com/doi/abs/10.1080/01419870.2024.2388688)
+  In *Ethnic and Racial Studies* [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01419870.2024.2388688)
 
 - **Faith in Flux: The Diverse Religious Adaptations of Hui Muslim Internal Migrants in a Global Market Town in Southeast China (forthcoming)**
 
