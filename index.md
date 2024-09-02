@@ -51,7 +51,13 @@ Contact: xiang.lu@zju.edu.cn
 
 - Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” (Under review)
 
-- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” (In preparation)
+- Lu, Xiang. “Discursive Construction of the Chinese Nation: A Topic Modeling Analysis of the Shifting Themes of ‘Zhonghua Minzu’ in Chinese Official Media, 1946-2023.” (In preparation)
+
+- Lu, Xiang. “National Pride, Migrant Skill Level, and Attitudes Toward Emigrants: A Survey Experiment in China.” (In preparation)
+
+- Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Study.” (In preparation)
+
+- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” (In preparation)
 
 
 
