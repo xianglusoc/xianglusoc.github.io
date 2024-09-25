@@ -1,7 +1,9 @@
 ## About
 Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for Advanced Study in Humanities and Social Sciences (IAS) and the Department of Sociology, Zhejiang University. Before joining ZJU, I received my PhD in Sociology from New York University.
 
-My research interests focus on race/ethnicity, migration, and urban sociology, explored through both qualitative and quantitative methods. My recent projects include studies on colorism in contemporary media, Chinese attitudes toward emigration, and the construction of "the Chinese nation" in the media, utilizing computational and experimental approaches. To learn more about my research interests, download my [CV](./docs/Xiang Lu CV.pdf).
+My research interests focus on race/ethnicity, migration, and urban sociology, explored through both qualitative and quantitative methods. My recent projects include studies on colorism in contemporary media, Chinese attitudes toward emigration, and the construction of "the Chinese nation" in the media, utilizing computational and experimental approaches. 
+
+To learn more about my research interests, download my [CV](./docs/Xiang Lu CV.pdf).
 Check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages.
 
 Contact: xiang.lu@zju.edu.cn
