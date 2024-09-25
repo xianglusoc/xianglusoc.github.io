@@ -23,7 +23,7 @@ Contact: xiang.lu@zju.edu.cn
 
   In *Journal of Contemporary Religion* [[Paper]](https://www.researchgate.net/publication/377209037_Faith_in_Flux_The_Diverse_Religious_Adaptations_of_Hui_Muslim_Internal_Migrants_in_a_Global_Market_Town_in_Southeast_China)
 
-  - **Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub (2024)**
+- **Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub (2024)**
 
   Xiang Lu
 
