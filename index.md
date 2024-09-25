@@ -55,7 +55,7 @@ Contact: xiang.lu@zju.edu.cn
 
 - Lu, Xiang. “The Impact of National Pride and Migrant Skill Level on Attitudes Toward Emigrants: Evidence from a Survey Experiment in China.”(Under review)
   
-- Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Study.” (In preparation)
+- Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.” (In preparation)
 
 - Lu, Xiang. “Discursive Construction of the Chinese Nation: A Topic Modeling Analysis of the Shifting Themes of ‘Zhonghua Minzu’ in Chinese Official Media, 1946-2023.” (In preparation)
 
