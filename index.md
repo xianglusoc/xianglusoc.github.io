@@ -17,17 +17,17 @@ Contact: xiang.lu@zju.edu.cn
 
 ## Publications
   
-- **Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub (forthcoming)**
-
-  Xiang Lu
-
-  In *Ethnic and Racial Studies* [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01419870.2024.2388688)
-
 - **Faith in Flux: The Diverse Religious Adaptations of Hui Muslim Internal Migrants in a Global Market Town in Southeast China (forthcoming)**
 
   Xiang Lu
 
   In *Journal of Contemporary Religion* [[Paper]](https://www.researchgate.net/publication/377209037_Faith_in_Flux_The_Diverse_Religious_Adaptations_of_Hui_Muslim_Internal_Migrants_in_a_Global_Market_Town_in_Southeast_China)
+
+  - **Navigating Ethnic Capital and Ethnic Penalty: Chinese Muslim Internal Migrants in an International Trade Hub (2024)**
+
+  Xiang Lu
+
+  In *Ethnic and Racial Studies* [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01419870.2024.2388688)
 
 - **Linking Race and Genes: Racial Conceptualization Among Genetic Ancestry Test-Takers (2024)**
 
