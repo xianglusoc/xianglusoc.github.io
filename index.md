@@ -47,21 +47,23 @@ Contact: xiang.lu@zju.edu.cn
 
   In *Journal of Ethnic and Migration Studies* 47(7): 1558-1577  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1577725) 
 
-## Works under review and in progress
+## Works under review
   
-- Lu, Xiang. “Discursive Construction of the Chinese Nation: A Topic Modeling Analysis of the Shifting Themes of ‘Zhonghua Minzu’ in Chinese Official Media, 1946-2023.” (In preparation)
+- Lu, Xiang. “Discursive Construction of the Chinese Nation: A Topic Modeling Analysis of the Shifting Themes of ‘Zhonghua Minzu’ in Chinese Official Media, 1946-2023.”
 
-- Lu, Xiang. “The Impact of National Pride and Migrant Skill Level on Attitudes Toward Emigrants: Evidence from a Survey Experiment in China.”(Under review)
+- Lu, Xiang. “The Impact of National Pride and Migrant Skill Level on Attitudes Toward Emigrants: Evidence from a Survey Experiment in China.”
 
-- Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.” (Under review)
+- Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.” 
 
-- Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” (Under review)
+- Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” 
   
-- Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.” (In preparation)
+## Works in progress
 
-- Lu, Xiang. Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (book manuscript in preparation).
+- Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.” 
+
+- Lu, Xiang. Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (book manuscript).
   
-- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” (In preparation)
+- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” 
 
 
 
