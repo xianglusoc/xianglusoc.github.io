@@ -49,13 +49,13 @@ Contact: xiang.lu@zju.edu.cn
 
 ## Works under review
   
-- Lu, Xiang. “Discursive Construction of the Chinese Nation: A Topic Modeling Analysis of the Shifting Themes of ‘Zhonghua Minzu’ in Chinese Official Media, 1946-2023.”
+- Lu, Xiang. “Discursive Construction of the Chinese Nation: A Topic Modeling Analysis of the Shifting Themes of ‘Zhonghua Minzu’ in Chinese Official Media, 1946-2023.” [[Manuscript]](https://osf.io/4q8nr/?view_only=70bc362d821f44129b7de749648f7dab)
 
-- Lu, Xiang. “The Impact of National Pride and Migrant Skill Level on Attitudes Toward Emigrants: Evidence from a Survey Experiment in China.”
+- Lu, Xiang. “The Impact of National Pride and Migrant Skill Level on Attitudes Toward Emigrants: Evidence from a Survey Experiment in China.” [[Manuscript]](https://osf.io/ag3un/?view_only=0f6c9c0304d94ebaa180786af8c47299)
 
-- Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.” 
+- Lu, Xiang. “Shifting Tides in the Majority Group’s Attitudes Towards Affirmative Action in Higher Education Admission: an Online Survey Experiment in China.” [[Manuscript]](https://osf.io/mzhxn/?view_only=757b87a0b8794adea52d23a7a4494395)
 
-- Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” 
+- Lu, Xiang. “Reimagining Roots and Relations: Perceptions of Middle Eastern and North African (MENA) Muslims Among Hui Internal Migrants in a Global Market Town.” [[Manuscript]](https://osf.io/uysc8/?view_only=209636e84a26404c9a2b42a374433ec6)
   
 ## Works in progress
 
