@@ -61,7 +61,8 @@ Contact: xiang.lu@zju.edu.cn
 
 - Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.”
   
-- Lu, Xiang. “Shades of Perception: Discrepancies Between Self-Assessed and Externally Assessed Skin Tone in Mexico.”
+- Lu, Xiang. “Internalized Colorism: Discrepancies Between Self-Perceived and Externally-Assessed Skin Tone in Mexico and Their Association with Health and Life Satisfaction.”
+
 
 - Lu, Xiang. Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (book manuscript).
   
