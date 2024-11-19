@@ -3,8 +3,7 @@ Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at Institute for A
 
 My research interests focus on migration, race/ethnicity, and urban sociology, explored through both qualitative and quantitative methods. My recent projects include studies on colorism in contemporary media and in Mexican society, Chinese attitudes toward emigration, and the construction of "the Chinese nation" in Chinese official media, utilizing computational, experimental, and statistical approaches. I am also writing a book about Chinese Muslims engaged in China-Arab trade, based on ethnographic and interview research.
 
-To learn more about my research interests, download my [CV](./docs/Xiang Lu CV.pdf).
-Check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages.
+To learn more about my research interests, check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages.
 
 Contact: xiang.lu@zju.edu.cn
 
@@ -59,14 +58,13 @@ Contact: xiang.lu@zju.edu.cn
   
 ## Works in progress
 
-- Lu, Xiang, Junzhe Chen, Anqi Liu, Xuming Hu, and Hui Xiong. “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.”
+- “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.”
   
-- Lu, Xiang. “Internalized Colorism: Discrepancies Between Self-Perceived and Externally-Assessed Skin Tone in Mexico and Their Association with Health and Life Satisfaction.”
+- “Internalized Colorism: Discrepancies Between Self-Perceived and Externally-Assessed Skin Tone in Mexico and Their Association with Health and Life Satisfaction.”
 
-
-- Lu, Xiang. Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (book manuscript).
+- Between Markets and Minarets: Sino-Muslims Navigating the Crossroads of China-Arab Trade (book manuscript).
   
-- Lu, Xiang. “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” 
+- “Teaching Race and Ethnicity in Modern China: A Study of Chinese Geography and History Textbooks, 1903-1984.” 
 
 
 
