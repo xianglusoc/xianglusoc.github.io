@@ -58,7 +58,7 @@ Contact: xiang.lu@zju.edu.cn
   
 ## Works in progress
 
-- “Colorism in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.”
+- “Racial Representation in Contemporary Advertisements and Fashion Magazines: A Computational Visual Analysis.”
   
 - “Internalized Colorism: Discrepancies Between Self-Perceived and Externally-Assessed Skin Tone in Mexico and Their Association with Health and Life Satisfaction.”
   
