@@ -21,7 +21,7 @@ Required materials:
 - Transcripts (undergraduate and above)
 - A 1-2 page research statement that clearly articulates your research experience and interests
 - 1-3 writing samples (in either English or Chinese)
-- List of 3 referees’ names, institutions, and email addresses
+
 
 
 
