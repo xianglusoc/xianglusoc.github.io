@@ -3,7 +3,7 @@ Hi! My name is Xiang Lu (吕想). I am an incoming Assistant Professor at the Ur
 
 I am broadly interested in AI and society / computational social science, migration, race and ethnicity, public opinion and attitudes, and media studies. My recent work focuses on the influence of demographic factors on social biases in human annotation processes, racial representation and nation-building discourse in media, and the socio-psychological mechanisms underlying public attitudes toward international migration.
 
-To learn more about my publications, check out my [researchgate](https://www.researchgate.net/profile/Xiang-Lu-35) and [ORCiD](https://orcid.org/0000-0003-4781-1997) pages. Download my [CV](./docs/Xiang Lu CV.pdf) here.
+To learn more about my research, download my [CV](./docs/Xiang Lu CV.pdf) here.
 
 Contact: xiang.lu49[at]foxmail.com
 
@@ -21,6 +21,7 @@ Required materials:
 - Transcripts (undergraduate and above)
 - A 1-2 page research statement that clearly articulates your research experience and interests
 - 1-3 writing samples (in either English or Chinese)
+
 
 
 
