@@ -5,7 +5,7 @@ I am broadly interested in AI and society / computational social science, migrat
 
 To learn more about my research, download my [CV](./docs/Xiang Lu CV.pdf) here.
 
-Contact: xiang.lu49[at]foxmail.com
+Contact: xianglu[at]hkust-gz.edu.cn
 
 ## For Prospective PhD Students
 
@@ -13,7 +13,7 @@ I am currently seeking motivated PhD students, with entry in **January 2026** or
 
 Applicants should hold (or be currently pursuing) a postgraduate or undergraduate degree in social sciences, data science, computer science, or a related field, and be proficient in at least one statistical programming language (Python, R, or Stata). Prior knowledge of AI techniques such as natural language processing, computer vision, machine learning, deep learning, or generative AI is highly desirable. Familiarity with survey data analysis, experimental methods in social science, or professional experience in the digital technology industries is also a plus. Candidates must meet the English proficiency requirements for admission to HKUST (GZ).
 
-Please email your application to xiang.lu49[at]foxmail.com with the subject line “PhD Application - Your Name - Your Institution”. 
+Please email your application to xianglu[at]hkust-gz.edu.cn with the subject line “PhD Application - Your Name - Your Institution”. 
 
 Required materials: 
 
@@ -21,6 +21,7 @@ Required materials:
 - Transcripts (undergraduate and above)
 - A 1-2 page research statement that clearly articulates your research experience and interests
 - 1-3 writing samples (in either English or Chinese)
+
 
 
 
