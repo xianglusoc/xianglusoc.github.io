@@ -54,9 +54,11 @@ I am recruiting two short-term, remote (online) Research Assistants to work on t
 - Ability to commit for at least 2 consecutive months.
 
 **How to apply**
+
 Please send your CV to xianglu[at]hkust-gz.edu.cn and briefly explain why you are interested in this position and why you are qualified for it.
 - For Project 1, please name your application email subject as: “RA (FAC) Application - Your Name - Your Institution.”
 - For Project 2, please name your application email subject as: “RA (GAT) Application - Your Name - Your Institution.”
+
 
 
 
