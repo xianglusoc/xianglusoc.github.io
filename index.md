@@ -29,30 +29,35 @@ I am recruiting two short-term, remote (online) Research Assistants to work on t
 **I. Research on Social Bias in Facial Attribute Classification (FAC) Models**
 
 1.Responsibilities
-(1)Collect, read, and synthesize English literature in the field of Facial Attribute Classification (FAC) 
-(2)Assist in designing and executing an online human-annotation task.
+
+- Collect, read, and synthesize English literature in the field of Facial Attribute Classification (FAC) 
+- Assist in designing and executing an online human-annotation task.
 
 2.Qualifications
-(1)Strong English reading and writing skills; substantial experience engaging with English academic literature.
-(2)Applicants from all disciplines are welcome; prior knowledge about facial attribute classification, face recognition, deep learning, human annotation, or trustworthy AI is preferred (but not required).
-(3)Ability to commit for at least 2 consecutive months.
+
+- Strong English reading and writing skills; substantial experience engaging with English academic literature.
+- Applicants from all disciplines are welcome; prior knowledge about facial attribute classification, face recognition, deep learning, human annotation, or trustworthy AI is preferred (but not required).
+- Ability to commit for at least 2 consecutive months.
 
 **II. Research on the Impact of Genetic Ancestry Testing on Ethnic Identity in China**
 
 1.Responsibilities
-(1)Gather, organize, and review literature in both Chinese and English
-(2)Clean and organize online ethnographic data (online forum discussions).
+
+- Gather, organize, and review literature in both Chinese and English
+- Clean and organize online ethnographic data (online forum discussions).
 
 2.Qualifications
-(1)Strong English reading and writing skills; extensive experience with Chinese and English literature reading and literature-review writing.
-(2)Applicants from all disciplines are welcome; social-science background preferred. Prior knowledge of Chinese ethnic studies—especially research on the Hui—is a plus. Familiarity with genetic testing or Science and Technology Studies (STS) is also a plus.
-(3)Careful, meticulous, and patient.
-(4)Ability to commit for at least 2 consecutive months.
+
+- Strong English reading and writing skills; extensive experience with Chinese and English literature reading and literature-review writing.
+- Applicants from all disciplines are welcome; social-science background preferred. Prior knowledge of Chinese ethnic studies—especially research on the Hui—is a plus. Familiarity with genetic testing or Science and Technology Studies (STS) is also a plus.
+- Careful, meticulous, and patient.
+- Ability to commit for at least 2 consecutive months.
 
 **How to apply**
 Please send your CV to xianglu[at]hkust-gz.edu.cn and briefly explain why you are interested in this position and why you are qualified for it.
 - For Project 1, please name your application email subject as: “RA (FAC) Application - Your Name - Your Institution.”
 - For Project 2, please name your application email subject as: “RA (GAT) Application - Your Name - Your Institution.”
+
 
 
 
