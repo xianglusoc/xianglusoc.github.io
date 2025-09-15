@@ -39,7 +39,7 @@ I am recruiting two short-term, remote (online) Research Assistants to work on t
 - Applicants from all disciplines are welcome; prior knowledge about facial attribute classification, face recognition, deep learning, human annotation, or trustworthy AI is preferred (but not required).
 - Ability to commit for at least 2 consecutive months.
 
-**II. Research on the Impact of Genetic Ancestry Testing on Ethnic Identity in China**
+**II. Research on the Impact of Genetic Ancestry Testing (GAT) on Ethnic Identity in China**
 
 1.Responsibilities
 
@@ -58,6 +58,7 @@ I am recruiting two short-term, remote (online) Research Assistants to work on t
 Please send your CV to xianglu[at]hkust-gz.edu.cn and briefly explain why you are interested in this position and why you are qualified for it.
 - For Project 1, please name your application email subject as: “RA (FAC) Application - Your Name - Your Institution.”
 - For Project 2, please name your application email subject as: “RA (GAT) Application - Your Name - Your Institution.”
+
 
 
 
