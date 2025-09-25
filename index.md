@@ -1,5 +1,5 @@
 ## About
-Hi! My name is Xiang Lu (吕想). I am an incoming Assistant Professor at the Urban Governance and Design Thrust, Society Hub, Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST(GZ), I was an Assistant Professor at Zhejiang University. I received my PhD in sociology from New York University (2021) and an LLB in sociology from Tsinghua University (2015).
+Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at the Urban Governance and Design Thrust, Society Hub, Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST(GZ), I was an Assistant Professor at Zhejiang University. I received my PhD in sociology from New York University (2021) and an LLB in sociology from Tsinghua University (2015).
 
 I am broadly interested in AI and society / computational social science, migration, race and ethnicity, public opinion and attitudes, and media studies. My recent work focuses on the influence of demographic factors on social biases in human annotation processes, racial representation and nation-building discourse in media, and the socio-psychological mechanisms underlying public attitudes toward international migration.
 
@@ -58,6 +58,7 @@ I am recruiting two short-term, remote (online) Research Assistants to work on t
 Please send your CV to xianglu[at]hkust-gz.edu.cn and briefly explain why you are interested in this position and why you are qualified for it.
 - For Project 1, please name your application email subject as: “RA (FAC) Application - Your Name - Your Institution.”
 - For Project 2, please name your application email subject as: “RA (GAT) Application - Your Name - Your Institution.”
+
 
 
 
