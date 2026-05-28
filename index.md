@@ -1,7 +1,7 @@
 ## About
 Hi! My name is Xiang Lu (吕想). I am an Assistant Professor at the Urban Governance and Design Thrust, Society Hub, Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST(GZ), I was an Assistant Professor at Zhejiang University. I received my PhD in sociology from New York University (2021) and an LLB in sociology from Tsinghua University (2015).
 
-I am broadly interested in AI and society / computational social science, migration, race and ethnicity, public opinion and attitudes, and media studies. My recent work focuses on the influence of demographic factors on social biases in human annotation processes, racial representation and nation-building discourse in media, and the socio-psychological mechanisms underlying public attitudes toward international migration.
+I am broadly interested in AI and society, computational social science, migration, race and ethnicity, public opinion and attitudes, and media studies. My recent research focuses on algorithmic bias in human–AI interaction, the impacts of AI on interpersonal relationships and social interaction, agentic society, racial representation and nation-building discourse in media, and public attitudes toward international migration and their socio-psychological mechanisms.
 
 To learn more about my research, download my [CV](./docs/Xiang Lu CV.pdf) here.
 
